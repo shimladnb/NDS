@@ -3,8 +3,8 @@ Contact: semschreuder@live.nl
 
 
 /// INSTALLATION /// 
-Unzip folder to your '/User Library/Presets/Instruments/Max Instrument' folder from ableton live. 
-Make shure to put BOTH files in there, NDS.amxd AND osc4.maxpat.
+Unzip folder and copy NDS.amxd & osc4.maxpat to your '.../User Library/Presets/Instruments/Max Instrument' folder from ableton live. 
+Make shure to put BOTH files in there.
 
 //RUNNING IT//
 apply the instrument on a midi track & turn on render, 
