@@ -12,7 +12,7 @@ Make shure to put BOTH files in there.
 apply the instrument on a midi track & turn on render, 
 set the'Mesh Scale', 'Noise Scale' & 'Mesh Distortion' Dials to 60 & trigger a note.
 
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+
 
 Have fun
 
